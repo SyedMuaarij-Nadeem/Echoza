@@ -1,0 +1,1 @@
+// RNNoise core implementation (simplified)

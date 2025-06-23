@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"echoza-auth","appId":"1:1067391738959:android:e908db5c975d5a3c9c763a","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"echoza-auth","configurations":{"android":"1:1067391738959:android:e908db5c975d5a3c9c763a","ios":"1:1067391738959:ios:34975a4ce151d9b99c763a"}}}}}}
